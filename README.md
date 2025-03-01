@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Angie</h1>
 <h3 align="center">Passionate about developing AI solutions</h3>
 
+<p align="center">
+  <img src="https://i.postimg.cc/RCRgyjSq/depositphotos-83475624-stock-illustration-abstract-color-backgrounds-painting-collage.webp" lt="Imagen" width="1000" height="250"/>
+</p>
+
+
 - 🔭 I’m currently working on **LLM quantification**
 
 - 🌱 I’m currently learning **Data Science, databases**
