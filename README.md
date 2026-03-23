@@ -1,16 +1,59 @@
-<h1 align="center">Hi 👋, I'm Angie</h1>
-<h3 align="center">Passionate about developing AI solutions</h3>
+<h1 align="center">Hi there 👋 I'm Angie Paola Giraldo Ramirez</h1>
+<h3 align="center">🎓 Electronics Engineering | 🤖 Robotics | 📊 Data Science | 🧠 AI  </h3>
 
 <p align="center">
   <img src="https://i.postimg.cc/RCRgyjSq/depositphotos-83475624-stock-illustration-abstract-color-backgrounds-painting-collage.webp" lt="Imagen" width="1000" height="250"/>
 </p>
 
+---
 
-- 🔭 I’m currently working on **LLM quantification**
+## 🚀 About Me
+I am an Electronics Engineer with a background in robotics, machine learning, and education. I am particularly interested in how intelligent systems can be integrated into real-world applications, combining data-driven approaches with physical systems. I enjoy developing solutions that connect control theory, artificial intelligence, and practical implementation.
 
-- 🌱 I’m currently learning **Data Science, databases**
+Additionally, I am passionate about promoting scientific knowledge, mentoring others, and developing high-impact technological projects
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 🔭 I’m currently working on
+Robotics projects in education
+Machine learning applications
+Educational and technology mentorship initiatives
+
+---
+
+## 🌱 I’m currently learning
+- Data Science  
+- Databases  
+- Machine Learning  
+- Computer Vision  
+
+---
+
+## 💬 What I do
+🤖 Robotics Education Content Developer
+🎤 International Speaker
+👩‍🏫 Technology Mentor
+🌱 Developer of educational programs for children in Wounaan indigenous communities in rural Colombia
+
+I love sharing knowledge, mentoring others, and learning continuously about AI, robotics, and emerging technologies.
+
+---
+
+## 🧠 Interests
+- Artificial Intelligence  
+- Machine Learning  
+- Computer Vision  
+- Robotics and Control Systems  
+- Tech for social impact  
+
+---
+
+## 🌎 Vision
+To contribute to the development of innovative technologies that create positive impact in society, especially in Latin America.
+
+---
+
+## 📫 Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/angiepgiraldo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/angiepgiraldo/" height="30" width="40" /></a>
 <a href="https://kaggle.com/angiegiraldor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="angiegiraldor" height="30" width="40" /></a>
