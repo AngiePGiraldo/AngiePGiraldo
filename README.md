@@ -15,9 +15,9 @@ Additionally, I am passionate about promoting scientific knowledge, mentoring ot
 ---
 
 ## 🔭 I’m currently working on
-Robotics projects in education
-Machine learning applications
-Educational and technology mentorship initiatives
+- Robotics projects in education
+- Machine learning applications
+- Educational and technology mentorship initiatives
 
 ---
 
@@ -30,10 +30,10 @@ Educational and technology mentorship initiatives
 ---
 
 ## 💬 What I do
--🤖 Robotics Education Content Developer
--🎤 International Speaker
--👩‍🏫 Technology Mentor
--🌱 Developer of educational programs for children in Wounaan indigenous communities in rural Colombia
+- 🤖 Robotics Education Content Developer
+- 🎤 International Speaker
+- 👩‍🏫 Technology Mentor
+- 🌱 Developer of educational programs for children in Wounaan indigenous communities in rural Colombia
 
 I love sharing knowledge, mentoring others, and learning continuously about AI, robotics, and emerging technologies.
 
